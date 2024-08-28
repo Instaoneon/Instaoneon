@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate with people willing to pass on their knowledge
 - 📫 How to reach me...
-- 🐦Twitter: @TheUwUGayGuy
-- 👻Snapchat: @instaoneon
-- 📸Instagram: @instaoneon
+- 🐦Twitter: @TheUwUBiGuy
+- 👻Snapchat: @TheUwUBiGuy
+- 📸Instagram: @TheUwUBiGuy
 
 <!---
 Instaoneon/Instaoneon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
