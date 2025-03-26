@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Instaoneon
 - 👀 I’m interested in learn to code
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Swift
 - 💞️ I’m looking to collaborate with people willing to pass on their knowledge
 - 📫 How to reach me...
 - 🐦Twitter: @TheUwUBiGuy
